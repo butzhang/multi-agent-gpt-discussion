@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for multi_agent_gpt_discussion."""
 
 from .cli import main  # pragma: no cover
 

@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from multi_agent_gpt_discussion.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "multi_agent_gpt_discussion"
